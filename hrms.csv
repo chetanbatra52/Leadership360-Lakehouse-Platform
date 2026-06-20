@@ -1,0 +1,6 @@
+ParticipantID,ParticipantName,Department,Region,JobLevel,HireDate
+P1001,Amit Sharma,Sales,India,Manager,2020-05-10
+P1002,Priya Singh,Marketing,India,Director,2019-03-12
+P1003,Rahul Verma,Technology,APAC,Manager,2021-01-15
+P1004,Neha Gupta,Finance,EMEA,VP,2018-07-01
+P1005,Ankit Jain,Operations,Americas,Director,2019-09-25

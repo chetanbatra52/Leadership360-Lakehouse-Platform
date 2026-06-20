@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pbix
+*.bak
+*.tmp
+.vscode/
